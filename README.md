@@ -2,6 +2,8 @@
 
 Create a React app that mimics a simple calculator
 
+Check out my deployed solution [here](https://phonecalculator.surge.sh)
+
 ## Overview
 
 - Please use `create-react-app` to generate your project
